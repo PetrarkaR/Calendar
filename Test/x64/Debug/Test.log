@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\swagg\OneDrive\Desktop\GUI\Test\Test\src\functions.h(1,13): warning C4081: expected 'newline'; found ';'
+  Test.vcxproj -> C:\Users\swagg\OneDrive\Desktop\GUI\Test\x64\Debug\Test.exe
